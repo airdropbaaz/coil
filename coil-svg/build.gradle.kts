@@ -1,6 +1,6 @@
 import coil3.addAllMultiplatformTargets
 import coil3.androidInstrumentedTest
-import coil3.androidLibrary
+import coil2.androidLibrary
 import coil3.androidUnitTest
 import coil3.skikoAwtRuntimeDependency
 
